@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-todo/static/css/main.3b683c6f.css",
+    "main.js": "/simple-todo/static/js/main.71f7cfbe.js",
+    "index.html": "/simple-todo/index.html",
+    "main.3b683c6f.css.map": "/simple-todo/static/css/main.3b683c6f.css.map",
+    "main.71f7cfbe.js.map": "/simple-todo/static/js/main.71f7cfbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b683c6f.css",
+    "static/js/main.71f7cfbe.js"
+  ]
+}
